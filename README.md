@@ -12,4 +12,5 @@ currently exploring:
 building in public and learning as i go.
 
 x: @Hanauta_Sancho_
+
 farcaster: https://farcaster.xyz/isagiyoichi20
