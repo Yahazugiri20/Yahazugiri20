@@ -1,25 +1,15 @@
 # hey, i'm mugen
 
-currently obsessed with ai agents, mcp, x402, and whatever weird experiment shows up on crypto twitter.
+i spend too much time testing ai agents, breaking code, and chasing weird ideas from crypto twitter.
 
-## building
+currently exploring:
 
-- x402 MCP Hub
-- Base agent experiments
-- onchain automation
-- agent workflows
+* base mcp
+* x402
+* ai agents
+* onchain tools
 
-## exploring
+building in public and learning as i go.
 
-- Base MCP
-- x402 payments
-- autonomous agents
-- open source AI
-
-## find me
-
-- X: @Hanauta_Sancho_
-- Farcaster: https://farcaster.xyz/isagiyoichi20
-
-most projects start as experiments.
-some survive.
+x: @Hanauta_Sancho_
+farcaster: https://farcaster.xyz/isagiyoichi20
